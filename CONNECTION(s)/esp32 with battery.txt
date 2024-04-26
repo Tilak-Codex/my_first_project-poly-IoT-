@@ -1,0 +1,12 @@
+CONNECTING ESP32 WITH BATTERY WITH ROCKET SWITCH
+
+ABOUT BATTERY
+
+TERMINAL with SPOT -> Negative of battery
+TERMINAL in OPPOSITE -> Positve of battery
+
+CONNECTION
+
+	Positive of battery    -> Vin of ESP32
+	Negative of battery   -> 1a terminal of rocket switch
+	1 terminal of RS -> GND of esp32
